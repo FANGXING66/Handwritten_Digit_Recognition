@@ -1,3 +1,5 @@
+<img width="213" alt="Snipaste_2025-05-24_11-48-38" src="https://github.com/user-attachments/assets/079b530f-9ab8-4962-a984-a7433588a327" />
+
 # 手写数字识别项目
 
 ## 快速开始
